@@ -1,4 +1,4 @@
-# Snakes_and_ladders
+# Snakes_and_Ladders
 •	Developed a classic Snakes and Ladders multiplayer game in python by importing random module
 •	Applied all rules of the snake and Ladders game where players can roll the dice in their own turn  
 
